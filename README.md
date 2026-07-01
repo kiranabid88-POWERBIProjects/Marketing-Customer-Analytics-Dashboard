@@ -168,6 +168,7 @@ About
  📂 Dataset
 
 **Source:** Online Retail Dataset
+The dataset is not included due to file size limitations. This dashboard was built using the publicly available Online Retail dataset.
 
 The dataset contains transactional retail sales information including:
 
