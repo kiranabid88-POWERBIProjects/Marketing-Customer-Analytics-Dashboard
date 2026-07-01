@@ -17,7 +17,7 @@ This dashboard answers key business questions such as:
 - How does revenue change over time?
 - What are the key business performance indicators?
 
-## 📄 Dashboard Pages
+# 📄 Dashboard Pages
 
  📈 Executive Overview
 
@@ -76,7 +76,7 @@ Project documentation including:
 - Business Questions Answered
 - Project Information
 
-# 🛠 Tools & Technologies
+ 🛠 Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -87,21 +87,21 @@ Project documentation including:
 - Time Intelligence
 - RFM Customer Segmentation
 
-# 🗄 Data Model
+ 🗄 Data Model
 
 The dashboard follows a **Star Schema** design.
 
-### Fact Table
+ Fact Table
 
 - FactSales
 
-### Dimension Tables
+ Dimension Tables
 
 - DimCustomer
 - DimProduct
 - DimDate
 
-# 📊 Key KPIs
+ 📊 Key KPIs
 
 - Total Revenue
 - Total Customers
@@ -115,7 +115,7 @@ The dashboard follows a **Star Schema** design.
 - Product Contribution %
 - Repeat Customer Rate
 
-# 📈 DAX Concepts Used
+ 📈 DAX Concepts Used
 
 - Time Intelligence
 - CALCULATE()
@@ -129,7 +129,7 @@ The dashboard follows a **Star Schema** design.
 - Variables (VAR)
 - IF Statements
 
-# ✨ Dashboard Features
+✨ Dashboard Features
 
 - Interactive Navigation Buttons
 - Cross Filtering
@@ -142,31 +142,30 @@ The dashboard follows a **Star Schema** design.
 - Responsive Visual Interactions
 - Modern Glassmorphism UI
 
-# 📷 Dashboard Preview
+📷 Dashboard Preview
 
-## Executive Overview
-
-*(Insert Screenshot)*
-
-## Customer Analytics
+ Executive Overview
 
 *(Insert Screenshot)*
 
-## Product Analytics
+ Customer Analytics
 
 *(Insert Screenshot)*
 
-## Geography Analytics
+Product Analytics
 
 *(Insert Screenshot)*
 
-## About
+Geography Analytics
+
+*(Insert Screenshot)*
+
+About
 
 *(Insert Screenshot)*
 
 ---
-
-# 📂 Dataset
+ 📂 Dataset
 
 **Source:** Online Retail Dataset
 
@@ -180,9 +179,8 @@ The dataset contains transactional retail sales information including:
 - Quantities
 - Invoice Dates
 
----
 
-# 🚀 Skills Demonstrated
+🚀 Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -195,21 +193,18 @@ The dataset contains transactional retail sales information including:
 - Customer Segmentation
 - Business Storytelling
 
----
 
-# 👨‍💻 Developed By
+👨‍💻 Developed By
 
 **Kiran Amir**
 
 Aspiring Data Analyst
 
----
-
-## 🔗 Connect With Me
+ 🔗 Connect With Me
 
 **LinkedIn**
 
-(Add your LinkedIn profile URL)
+www.linkedin.com/in/kiran-amir-170222363
 
 **GitHub**
 
