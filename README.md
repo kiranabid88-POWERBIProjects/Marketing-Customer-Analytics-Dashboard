@@ -19,7 +19,7 @@ This dashboard answers key business questions such as:
 
 # 📄 Dashboard Pages
 
- 📈 Executive Overview
+ ##📈 Executive Overview
 
 Provides a high-level summary of business performance including:
 
@@ -32,7 +32,7 @@ Provides a high-level summary of business performance including:
 - Top Products
 - Revenue by Country
 
- 👥 Customer Analytics
+ ##👥 Customer Analytics
 
 Customer behavior analysis using **RFM Segmentation**.
 
@@ -45,7 +45,7 @@ Features include:
 - Customer Ranking
 - Top Customers
 
-  📦 Product Analytics
+##📦 Product Analytics
 
 Analyze product performance through:
 
@@ -56,7 +56,7 @@ Analyze product performance through:
 - Revenue Trends
 - Top Performing Products
 
-  🌍 Geography Analytics
+  ##🌍 Geography Analytics
 
 Country-level business insights including:
 
@@ -66,9 +66,9 @@ Country-level business insights including:
 - Country Performance
 - Top Revenue Generating Markets
 
-  ℹ️ About
+  ##ℹ️ About
 
-Project documentation including:
+###Project documentation including:
 
 - Dashboard Features
 - Tools & Technologies
@@ -76,7 +76,7 @@ Project documentation including:
 - Business Questions Answered
 - Project Information
 
- 🛠 Tools & Technologies
+ #🛠 Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -87,7 +87,7 @@ Project documentation including:
 - Time Intelligence
 - RFM Customer Segmentation
 
- 🗄 Data Model
+# 🗄 Data Model
 
 The dashboard follows a **Star Schema** design.
 
@@ -101,7 +101,7 @@ The dashboard follows a **Star Schema** design.
 - DimProduct
 - DimDate
 
- 📊 Key KPIs
+# 📊 Key KPIs
 
 - Total Revenue
 - Total Customers
@@ -115,7 +115,7 @@ The dashboard follows a **Star Schema** design.
 - Product Contribution %
 - Repeat Customer Rate
 
- 📈 DAX Concepts Used
+ #📈 DAX Concepts Used
 
 - Time Intelligence
 - CALCULATE()
@@ -129,7 +129,7 @@ The dashboard follows a **Star Schema** design.
 - Variables (VAR)
 - IF Statements
 
-✨ Dashboard Features
+ #✨ Dashboard Features
 
 - Interactive Navigation Buttons
 - Cross Filtering
@@ -142,7 +142,7 @@ The dashboard follows a **Star Schema** design.
 - Responsive Visual Interactions
 - Modern Glassmorphism UI
 
-📷 Dashboard Preview
+#📷 Dashboard Preview
 
  Executive Overview
 
